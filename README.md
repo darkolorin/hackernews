@@ -2,8 +2,6 @@
 
 A simple macOS menu bar application that displays the latest top story from Hacker News.
 
-![Screenshot](placeholder.png) <!-- Replace with a real screenshot URL/path if desired -->
-
 ## Features
 
 *   Displays the title and score of the current top Hacker News story in the menu bar.

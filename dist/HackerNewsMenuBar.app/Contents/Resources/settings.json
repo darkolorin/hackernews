@@ -1,0 +1,8 @@
+{
+    "MAX_TITLE_LENGTH": 50,
+    "UPDATE_INTERVAL_SECONDS": 1800,
+    "MAX_ARTICLES_IN_MENU": 5,
+    "REQUEST_TIMEOUT": 10,
+    "ICON_DEFAULT": "\ud83d\udcf0",
+    "ICON_ERROR": "\u26a0\ufe0f"
+}

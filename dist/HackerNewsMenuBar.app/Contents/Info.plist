@@ -72,7 +72,7 @@
 	<key>PythonInfoDict</key>
 	<dict>
 		<key>PythonExecutable</key>
-		<string>/Users/olorinx/.pyenv/versions/3.8.10/bin/python</string>
+		<string>/Users/olorinx/VS/cursor/macos_try/.venv/bin/python</string>
 		<key>PythonLongVersion</key>
 		<string>3.8.10 (default, May 14 2024, 19:25:57) 
 [Clang 15.0.0 (clang-1500.3.9.4)]</string>
